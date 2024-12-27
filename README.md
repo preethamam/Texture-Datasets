@@ -1,5 +1,5 @@
-# Texture datasets
-Cracks are the defects formed by cyclic loading, fatigue, shrinkage, creep, and so on. In addition, they represent the deterioration of the structures over some time. Therefore, it is essential to detect and classify them according to the condition grade at the early stages to prevent the collapse of structures. Deep learning and machine learning-based supervised classification methods requires carefully annotated images of cracks. This is a repository of human annotated classification datasets of concrete, pavement, walls/mixed and masonry/bricks cracks surface. I collected these datasets during my Ph.D. days and used many for my dissertation.
+# Texture datasets (Textures-1.48K)
+Textures are the naturally occuring feel or apperance of an object or material or substance. Textures can be used to classify the type of materials and more. Deep learning and machine learning-based supervised classification methods requires carefully annotated images for the texture classification. Furthermore, for the synthesis of textural images this datasets can be used. This is a repository of human annotated texture classification datasets of concrete, corrosion, pavement, sand and steel surfaces. I collected these datasets during my Ph.D. days in 2014 by web harvesting.
 
 ## Datasets examples
 | No. | Texture type | Texture images |
@@ -16,4 +16,3 @@ I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pa
 
 # Feedback
 Please rate and provide feedback for the further improvements.
-
