@@ -12,7 +12,7 @@ Textures are the naturally occuring feel or apperance of an object or material o
 
 
 # Acknowledgements
-I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavment, walls and glass datasets.
+I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete, pavement, walls and glass datasets.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
