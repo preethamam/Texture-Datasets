@@ -26,7 +26,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete (407 numbers), corrosion, pavement, sand, and steel images.
+I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete (407 numbers), corrosion, pavement (28 numbers), sand, and steel images.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
