@@ -28,7 +28,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete (407 numbers), corrosion, pavement (28 numbers), sand, and steel images.  In addition, I thank Ajay Kumar V. for his conscientious efforts in creating concrete and pavement classification annotations.
+I thank Shravan Ravi, Vinay Hegde, and Milind Bhat (chronological order) for their efforts in the collection and preparation of the crack and non-crack concrete and pavement surface image database around the University of Southern California (USC) campus at Los Angeles, USA. I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete (407 numbers), corrosion, pavement (28 numbers), sand, and steel images.  In addition, I thank Ajay Kumar V. for his conscientious efforts in creating concrete and pavement classification annotations.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
