@@ -4,11 +4,13 @@ Textures are the naturally occuring feel or apperance of an object or material o
 ## Datasets examples
 | No. | Texture type | Texture images |
 | ------------- | ------------- |  ------------- |
-| 1 | [Concrete](https://1drv.ms/f/c/49b23bc11eecd6a8/EkmCuBvfCSNHs4HMkRwc9XcBUWQ2Ev9L-ahTnk1FpzyP9g?e=z86KwG) | ![](assets/concrete_texture.png) |
-| 2 | [Corrosion](https://1drv.ms/f/c/49b23bc11eecd6a8/Ep0bdmzzWH1Lp9xqS37eLpMBxquTSF4NgGtzzRzwua_6Zw?e=B2Q98I) | ![](assets/corrosion_texture.png) |
-| 3 | [Pavement](https://1drv.ms/f/c/49b23bc11eecd6a8/ElWnZqJcPa1Cm7E_U52vo28Bz3n94hAoPW6nS2u8DlT_DA?e=Fud0o5) | ![](assets/pavement_texture.png) |
-| 4 | [Sand](https://1drv.ms/f/c/49b23bc11eecd6a8/EuOUokwOoEhJobelGsOklpQBSAVPbnvC0w9zCA94lmOOuA?e=tqrUV1) | ![](assets/sand_texture.png) |
-| 5 | [Steel](https://1drv.ms/f/c/49b23bc11eecd6a8/EkHY8pDxENBEsV95goyplN8Bj61Yyp9_6eONBms_zMq2-g?e=ZSMEdp) | ![](assets/steel_texture.png) |
+| 1 | [Brick](https://1drv.ms/f/c/49b23bc11eecd6a8/EubupOBGWJtEvF0k7UAZWp8BIQPPMVf8_vpRguDsFIyRUA?e=xcveGy) | ![](assets/brick_texture.png) |
+| 2 | [Concrete](https://1drv.ms/f/c/49b23bc11eecd6a8/EkmCuBvfCSNHs4HMkRwc9XcBUWQ2Ev9L-ahTnk1FpzyP9g?e=z86KwG) | ![](assets/concrete_texture.png) |
+| 3 | [Corrosion](https://1drv.ms/f/c/49b23bc11eecd6a8/Ep0bdmzzWH1Lp9xqS37eLpMBxquTSF4NgGtzzRzwua_6Zw?e=B2Q98I) | ![](assets/corrosion_texture.png) |
+| 4 | [Pavement](https://1drv.ms/f/c/49b23bc11eecd6a8/ElWnZqJcPa1Cm7E_U52vo28Bz3n94hAoPW6nS2u8DlT_DA?e=Fud0o5) | ![](assets/pavement_texture.png) |
+| 5 | [Sand](https://1drv.ms/f/c/49b23bc11eecd6a8/EuOUokwOoEhJobelGsOklpQBSAVPbnvC0w9zCA94lmOOuA?e=tqrUV1) | ![](assets/sand_texture.png) |
+| 6 | [Steel](https://1drv.ms/f/c/49b23bc11eecd6a8/EkHY8pDxENBEsV95goyplN8Bj61Yyp9_6eONBms_zMq2-g?e=ZSMEdp) | ![](assets/steel_texture.png) |
+| 7 | [Wild](https://1drv.ms/f/c/49b23bc11eecd6a8/Etqjvbq_5hhEn3y8cUP5uAYBuoPFLh9PjPDyIZW2UnDGWQ?e=j1mrdY) | ![](assets/wild_texture.png) |
 
 # Citation
 All texture datasets are available to the public. If you use any of these datasets in your research, please use the following BibTeX entry to cite:
@@ -26,7 +28,7 @@ note = {Condition assessment, Crack localization, Crack change detection, Synthe
 ```
 
 # Acknowledgements
-I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete (407 numbers), corrosion, pavement (28 numbers), sand, and steel images.
+I thank Dr. Azarang Golmohammadi who web harvested cracks images of concrete (407 numbers), corrosion, pavement (28 numbers), sand, and steel images.  In addition, I thank Ajay Kumar V. for his conscientious efforts in creating concrete and pavement classification annotations.
 
 # Feedback
 Please rate and provide feedback for the further improvements.
