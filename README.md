@@ -1,4 +1,4 @@
-# Texture datasets (Textures-97.9K)
+# Texture datasets (Textures-97.1K)
 Textures are the naturally occuring feel or apperance of an object or material or substance. Textures can be used to classify the type of materials and more. Deep learning and machine learning-based supervised classification methods requires carefully annotated images for the texture classification. Furthermore, for the synthesis of textural images this datasets can be used. This is a repository of human annotated texture classification datasets of concrete, corrosion, pavement, sand and steel surfaces. I collected these datasets during my Ph.D. days in 2014 by web harvesting.
 
 ## Datasets examples
